@@ -1,6 +1,6 @@
 <template>
   <div class="login">
-    <h2>用户徐升qaq登录</h2>
+    <h2>用户徐升qaqqq登录</h2>
   </div>
 </template>
 
